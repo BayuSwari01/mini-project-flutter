@@ -16,7 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Tampilan Random Quotes :
+
 ![image](https://user-images.githubusercontent.com/102821668/214070462-757a852b-346b-45d8-bf19-17694803e559.png)
 
 Tampilan Random Quotes Technology :
+
 ![image](https://user-images.githubusercontent.com/102821668/214070621-0bdb7e64-5ad5-4815-ad14-1b160bf768c7.png)
